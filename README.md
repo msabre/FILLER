@@ -18,8 +18,9 @@ make
 ```
 
 *Пример:*
+
 ```
-./filler_vm -p1 resources/players/grati.filler -p2 ./msabre.filler -f resources/map00
+./filler_vm -p1 players/carli.filler -p2 ./msabre.filler -f maps/map00
 ```
 
 
